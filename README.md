@@ -29,7 +29,7 @@ Technologies
 - Optimized for iOS and Android 📱
 
 
-[Check out the Quote Generator App Repository here!](https://github.com/IsaiasCuvula/quote_generator)
+[**Check out the Quote Generator App Repository here!**](https://github.com/IsaiasCuvula/quote_generator)
 
 
 
@@ -52,12 +52,21 @@ Technologies
 - Optimized for iOS and Android 📱
 
 
-[Check out the Random User App Repository here!](https://github.com/IsaiasCuvula/random_user)
+[**Check out the Random User App Repository here!**](https://github.com/IsaiasCuvula/random_user)
 
 
 # Todo App
 
-[Check out the TODO App Repository here!](https://github.com/IsaiasCuvula/todo)
+Technologies
+
+- Flutter (UI)
+- GetX for State Management, Navigation
+- GetStorage for shared Preferences
+- Notification with localzone
+- MVC pattern
+- Sqflite for local storage
+
+[**Check out the TODO App Repository here!**](https://github.com/IsaiasCuvula/todo)
 
 
 # Billify App
@@ -88,7 +97,7 @@ Technologies
 - Internationalization (en & pt) 🌎
 - Optimized for iOS and Android 📱
 
-Get it now on the [Google Play Store](https://play.google.com/store/apps/details?id=com.bersyte.billify) & [App Store](https://apps.apple.com/bg/app/billiffy/id1638395030) !
+Get it now on the [**Google Play Store**](https://play.google.com/store/apps/details?id=com.bersyte.billify) & [**App Store**](https://apps.apple.com/bg/app/billiffy/id1638395030) !
 
 
 
