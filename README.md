@@ -16,7 +16,7 @@ This project was a lot of fun to work on! Initially, I set out to create a simpl
 
 Technologies
 
-- Flutter 🎨 
+- Flutter 🦋 
 - Dart 💻
 - Sqlflite 💽 
 - Firebase 🔥
@@ -42,7 +42,7 @@ The Random User app utilizes the Random User Generator API to provide users with
 
 Technologies
 
-- Flutter 🎨 
+- Flutter 🦋
 - Dart 💻
 - Sqlflite 💽 
 - http 🌐
@@ -59,12 +59,12 @@ Technologies
 
 Technologies
 
-- Flutter (UI)
-- GetX for State Management, Navigation
-- GetStorage for shared Preferences
-- Notification with localzone
-- MVC pattern
-- Sqflite for local storage
+- Flutter (UI) 🦋
+- GetX for State Management, Navigation 🚀
+- GetStorage for shared Preferences 💾 
+- Notification with localzone 🔔
+- MVC pattern 🎨
+- Sqflite for local storage 💽  
 
 [**Check out the TODO App Repository here!**](https://github.com/IsaiasCuvula/todo)
 
@@ -80,12 +80,17 @@ Billify offers multiple currencies, categories, and filtering options, including
 With Billify, you'll never miss a bill again. 
 
 
+<p align="center">
+  <img width="200" alt="iPhone14ProMockup1" src="https://user-images.githubusercontent.com/68303716/236707656-a06e1a49-dbb1-4ee9-9f64-ab83744c89ee.png" />
+  <img width="200" alt="iPhone14ProMockup2" src="https://user-images.githubusercontent.com/68303716/236707657-aa7b050c-384c-4791-9e3b-d70ebd4a4fe9.png" />
+  <img width="200" alt="iPhone14ProMockup4" src="https://user-images.githubusercontent.com/68303716/236707658-064d2a77-5025-4068-8232-a748c37b76c2.png" />
+</p>
 
 
 
 Technologies
 
-- Flutter 🎨 
+- Flutter 🦋 
 - Dart 💻
 - Sqlflite 💽 
 - Firebase 🔥
