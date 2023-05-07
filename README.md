@@ -72,7 +72,7 @@ With Billify, you'll never miss a bill again.
 
 
 
-Get it now on the [Google Play Store](https://play.google.com/store/apps/details?id=com.bersyte.billify) & [App Store]() !
+Get it now on the [Google Play Store](https://play.google.com/store/apps/details?id=com.bersyte.billify) & [App Store](https://apps.apple.com/bg/app/billiffy/id1638395030) !
 
 
 
