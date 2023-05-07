@@ -55,12 +55,12 @@ Technologies
 [Check out the Random User App Repository here!](https://github.com/IsaiasCuvula/random_user)
 
 
-# TODO APP
+# Todo App
 
 [Check out the TODO App Repository here!](https://github.com/IsaiasCuvula/todo)
 
 
-# BILLIFY APP
+# Billify App
 
 Introducing Billify - the ultimate bill reminder app. I created it with the goal of making it a part of your daily routine. My aim was to make the app visually stunning yet practical, using unique icons that are easy to understand.
 
@@ -71,6 +71,22 @@ Billify offers multiple currencies, categories, and filtering options, including
 With Billify, you'll never miss a bill again. 
 
 
+
+
+
+Technologies
+
+- Flutter 🎨 
+- Dart 💻
+- Sqlflite 💽 
+- Firebase 🔥
+- Shared Preferences 💾
+- Google Sign 🔑
+- Clean Architecture 🔨
+- GoRoute for Navigation 🗺️
+- Riverpod for State Managment 🚀
+- Internationalization (en & pt) 🌎
+- Optimized for iOS and Android 📱
 
 Get it now on the [Google Play Store](https://play.google.com/store/apps/details?id=com.bersyte.billify) & [App Store](https://apps.apple.com/bg/app/billiffy/id1638395030) !
 
