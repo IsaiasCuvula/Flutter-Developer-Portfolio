@@ -28,6 +28,10 @@ Technologies
 - Internationalization (en & pt) 🌎
 - Optimized for iOS and Android 📱
 
-Check out the Quote Generator App Repository here!
 
+[Check out the Quote Generator App Repository here!](https://github.com/IsaiasCuvula/quote_generator)
+
+[Check out the Random User App Repository here!](https://github.com/IsaiasCuvula/random_user)
+
+[Check out the TODO App Repository here!](https://github.com/IsaiasCuvula/todo)
 
