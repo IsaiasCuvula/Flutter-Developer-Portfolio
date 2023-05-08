@@ -11,7 +11,12 @@ Hello and welcome! 👋🏾 Thank you for taking the time to explore my GitHub r
 This project was a lot of fun to work on! Initially, I set out to create a simple quote generator app using Flutter. But I added more features and functionality that I realized could be helpful to others as well. The app consists of a clean and intuitive interface where users can create quotes and share them on social media. What I enjoyed most about developing this app was finding ways to balance Flutter's various widgets and animations to create a seamless user experience. Additionally, the project helped me learn something new about Flutter every day as I researched ways to improve the app's functionality and design.
 
 
-//Project Images
+
+<p align="center">
+  <img width="200" alt="iPhone13Mockup1" src="https://user-images.githubusercontent.com/68303716/236710900-0eee7128-2cd5-432c-9fc5-ed54c144e445.png" />
+  <img width="200" alt="iPhone13Mockup2" src="https://user-images.githubusercontent.com/68303716/236710903-5748de13-e014-42d2-8094-e91232759e92.png" />
+  <img width="200" alt="iPhone13Mockup3" src="https://user-images.githubusercontent.com/68303716/236710906-ebb7f3c0-6faa-4b97-be5e-b7b2da757f9c.png" />
+</p>
 
 
 Technologies
