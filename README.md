@@ -12,7 +12,7 @@ This project was a lot of fun to work on! Initially, I set out to create a simpl
 
 
 
-<p align="center">
+<p align="left">
   <img width="200" alt="iPhone13Mockup1" src="https://user-images.githubusercontent.com/68303716/236710900-0eee7128-2cd5-432c-9fc5-ed54c144e445.png" />
   <img width="200" alt="iPhone13Mockup2" src="https://user-images.githubusercontent.com/68303716/236710903-5748de13-e014-42d2-8094-e91232759e92.png" />
   <img width="200" alt="iPhone13Mockup3" src="https://user-images.githubusercontent.com/68303716/236710906-ebb7f3c0-6faa-4b97-be5e-b7b2da757f9c.png" />
@@ -85,7 +85,7 @@ Billify offers multiple currencies, categories, and filtering options, including
 With Billify, you'll never miss a bill again. 
 
 
-<p align="center">
+<p align="left">
   <img width="200" alt="iPhone14ProMockup1" src="https://user-images.githubusercontent.com/68303716/236707656-a06e1a49-dbb1-4ee9-9f64-ab83744c89ee.png" />
   <img width="200" alt="iPhone14ProMockup2" src="https://user-images.githubusercontent.com/68303716/236707657-aa7b050c-384c-4791-9e3b-d70ebd4a4fe9.png" />
   <img width="200" alt="iPhone14ProMockup4" src="https://user-images.githubusercontent.com/68303716/236707658-064d2a77-5025-4068-8232-a748c37b76c2.png" />
