@@ -1,7 +1,8 @@
 # Flutter-Developer-Portfolio
-Collection of Mobile Applications showcasing the skills and expertise of a passionate Flutter developer. From simple utilities to complex projects, this repository offers a diverse range of applications to demonstrate the developer's capabilities.
 
-My Images
+<p align="left">
+  <img width="1000" alt="MyPicIsaiasCuvula" src="https://github.com/IsaiasCuvula/random_user/assets/68303716/2f54b5ec-3691-411f-b71e-18195a89d1a2" />
+</p>
 
 Hello and welcome! 👋🏾 Thank you for taking the time to explore my GitHub repository. Here, you will find a curated selection of my recent Flutter projects that showcase my skills and expertise. As a junior developer, I am currently seeking remote or relocation opportunities. Please take a look at my projects to see what I can do. If you think I'd be a good fit for your team, feel free to reach out! 
 
@@ -80,7 +81,7 @@ Technologies
 
 # Billify App
 
-Introducing Billify - the ultimate bill reminder app. I created it with the goal of making it a part of your daily routine. My aim was to make the app visually stunning yet practical, using unique icons that are easy to understand.
+Introducing Billify My first Flutter App on the App Store & Google Play Store! - the ultimate bill reminder app. I created it with the goal of making it a part of daily routine. My aim was to make the app visually stunning yet practical, using unique icons that are easy to understand.
 
 I integrated Firebase for seamless synchronization across multiple devices. Reminders are crucial for any good bill tracking app, which is why I added local and push notifications. Shortcuts make it quick and easy to add new bills.
 
