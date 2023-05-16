@@ -40,9 +40,13 @@ Technologies
 
 # Random User App
 
-The Random User app utilizes the Random User Generator API to provide users with comprehensive information on randomly generated users, including their name, email, phone number, and location.
+The Random User app utilizes the Random User Generator API to provide users with comprehensive information on randomly generated users, including their names, emails, phone numbers, and locations. Additionally, the app allows you to make calls and send emails using the user's device default apps. You can choose to generate as many random users as you wish and interact with their contact information seamlessly with a user-friendly interface for easy navigation and quick results.
 
-//Project Images
+<p align="left">
+  <img width="200" alt="iPhone13Mockup1" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/2c6a31c3-7a24-415c-b90d-e38876ca3698" />
+  <img width="200" alt="iPhone13Mockup2" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/2e161085-f39a-4394-b500-a244cb7ffe13" />
+  <img width="200" alt="iPhone13Mockup3" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/d7288e56-0e73-4c67-bce1-a95bb9749802" />
+</p>
 
 
 Technologies
@@ -88,7 +92,7 @@ With Billify, you'll never miss a bill again.
 <p align="left">
   <img width="200" alt="iPhone14ProMockup1" src="https://user-images.githubusercontent.com/68303716/236707656-a06e1a49-dbb1-4ee9-9f64-ab83744c89ee.png" />
   <img width="200" alt="iPhone14ProMockup2" src="https://user-images.githubusercontent.com/68303716/236707657-aa7b050c-384c-4791-9e3b-d70ebd4a4fe9.png" />
-  <img width="200" alt="iPhone14ProMockup4" src="https://user-images.githubusercontent.com/68303716/236707658-064d2a77-5025-4068-8232-a748c37b76c2.png" />
+  <img width="200" alt="iPhone14ProMockup3" src="https://user-images.githubusercontent.com/68303716/236707658-064d2a77-5025-4068-8232-a748c37b76c2.png" />
 </p>
 
 
