@@ -44,9 +44,10 @@ Technologies
 The Random User app utilizes the Random User Generator API to provide users with comprehensive information on randomly generated users, including their names, emails, phone numbers, and locations. Additionally, the app allows you to make calls and send emails using the user's device default apps. You can choose to generate as many random users as you wish and interact with their contact information seamlessly with a user-friendly interface for easy navigation and quick results.
 
 <p align="left">
-  <img width="200" alt="iPhone13Mockup1" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/2c6a31c3-7a24-415c-b90d-e38876ca3698" />
-  <img width="200" alt="iPhone13Mockup2" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/2e161085-f39a-4394-b500-a244cb7ffe13" />
-  <img width="200" alt="iPhone13Mockup3" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/d7288e56-0e73-4c67-bce1-a95bb9749802" />
+  <img width="200" alt="iPhone13ProMockup1" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/cc91b099-ba3b-49ad-95bd-9120d91b80b4" />
+  <img width="200" alt="iPhone13ProMockup2" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/cd1d7623-c6ff-4e68-a9ea-090e0eb28de8" />
+  <img width="200" alt="iPhone13ProMockup3" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/92271687-cc3b-4b98-ab4a-4626eb957042" />
+  <img width="200" alt="iPhone13ProMockup4" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/a41db874-2aa0-4e82-a071-c3e61668c83a" />
 </p>
 
 
@@ -54,7 +55,7 @@ Technologies
 
 - Flutter 🦋
 - Dart 💻
-- Sqlflite 💽 
+- Hive for local cache 💽 
 - http 🌐
 - Clean Architecture 🔨
 - GoRoute for Navigation 🗺️
