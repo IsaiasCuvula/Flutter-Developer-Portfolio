@@ -55,7 +55,7 @@ Technologies
 
 - Flutter 🦋
 - Dart 💻
-- Hive for local cache 💽 
+- Sqflite for local cache 💽 
 - http 🌐
 - Clean Architecture 🔨
 - GoRoute for Navigation 🗺️
@@ -64,20 +64,6 @@ Technologies
 
 
 [**Check out the Random User App Repository here!**](https://github.com/IsaiasCuvula/random_user)
-
-
-# Todo App
-
-Technologies
-
-- Flutter (UI) 🦋
-- GetX for State Management, Navigation 🚀
-- GetStorage for shared Preferences 💾 
-- Notification with localzone 🔔
-- MVC pattern 🎨
-- Sqflite for local storage 💽  
-
-[**Check out the TODO App Repository here!**](https://github.com/IsaiasCuvula/todo)
 
 
 # Billify App
