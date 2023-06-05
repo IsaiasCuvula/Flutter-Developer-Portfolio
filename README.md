@@ -59,7 +59,7 @@ Technologies
 - http 🌐
 - Clean Architecture 🔨
 - GoRoute for Navigation 🗺️
-- Riverpod / Bloc for State Managment 🚀
+- Riverpod for State Managment 🚀
 - Optimized for iOS and Android 📱
 
 
