@@ -68,7 +68,7 @@ Technologies
 
 # Billify App
 
-Introducing Billify My first Flutter App on the App Store & Google Play Store! - the ultimate bill reminder app. I created it with the goal of making it a part of daily routine. My aim was to make the app visually stunning yet practical, using unique icons that are easy to understand.
+Introducing Billify my first Flutter App on the App Store & Google Play Store! - the ultimate bill reminder app. I created it with the goal of making it a part of daily routine. My aim was to make the app visually stunning yet practical, using unique icons that are easy to understand.
 
 I integrated Firebase for seamless synchronization across multiple devices. Reminders are crucial for any good bill tracking app, which is why I added local and push notifications. Shortcuts make it quick and easy to add new bills.
 
