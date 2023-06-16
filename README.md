@@ -4,7 +4,7 @@
   <img width="1000" alt="MyPicIsaiasCuvula" src="https://github.com/IsaiasCuvula/random_user/assets/68303716/2f54b5ec-3691-411f-b71e-18195a89d1a2" />
 </p>
 
-Hello and welcome! 👋🏾 Thank you for taking the time to explore my GitHub repository. Here, you will find a curated selection of my recent Flutter projects that showcase my skills and expertise. As a junior developer, I am currently seeking remote or relocation opportunities. Please take a look at my projects to see what I can do. If you think I'd be a good fit for your team, feel free to reach out! 
+Hello and welcome! 👋🏾 Thank you for taking the time to explore my GitHub repository. Here, you will find a curated selection of my recent Flutter projects that showcase my skills and expertise. As a Flutter Developer, I am currently seeking remote or relocation opportunities. Please take a look at my projects to see what I can do. If you think I'd be a good fit for your team, feel free to reach out! 
 
 
 # Quote Generator 
@@ -55,8 +55,9 @@ Technologies
 
 - Flutter 🦋
 - Dart 💻
-- Sqflite for local cache 💽 
 - http 🌐
+- Unit Test 🧪
+- Sqflite for local cache 💽 
 - Clean Architecture 🔨
 - GoRoute for Navigation 🗺️
 - Riverpod for State Managment 🚀
