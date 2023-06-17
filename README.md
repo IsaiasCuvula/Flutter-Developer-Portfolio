@@ -28,9 +28,10 @@ Technologies
 - Firebase 🔥
 - Shared Preferences 💾
 - Google Sign 🔑
+- Dark & Light Mode
 - Clean Architecture 🔨
 - GoRoute for Navigation 🗺️
-- Riverpod for State Managment 🚀
+- Riverpod for State Management 🚀
 - Internationalization (en & pt) 🌎
 - Optimized for iOS and Android 📱
 
@@ -60,7 +61,7 @@ Technologies
 - Sqflite for local cache 💽 
 - Clean Architecture 🔨
 - GoRoute for Navigation 🗺️
-- Riverpod for State Managment 🚀
+- Riverpod for State Management 🚀
 - Optimized for iOS and Android 📱
 
 
@@ -96,7 +97,7 @@ Technologies
 - Google Sign 🔑
 - Clean Architecture 🔨
 - GoRoute for Navigation 🗺️
-- Riverpod for State Managment 🚀
+- Riverpod for State Management 🚀
 - Internationalization (en & pt) 🌎
 - Optimized for iOS and Android 📱
 
