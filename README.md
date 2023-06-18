@@ -9,7 +9,7 @@ Hello and welcome! 👋🏾 Thank you for taking the time to explore my GitHub r
 
 # Quote Generator 
 
-This project was a lot of fun to work on! Initially, I set out to create a simple quote generator app using Flutter. But I added more features and functionality that I realized could be helpful to others as well. The app consists of a clean and intuitive interface where users can create quotes and share them on social media. What I enjoyed most about developing this app was finding ways to balance Flutter's various widgets and animations to create a seamless user experience. Additionally, the project helped me learn something new about Flutter every day as I researched ways to improve the app's functionality and design.
+This project was a lot of fun to work on! Initially, I set out to create a simple quote generator app using Flutter. But I added more features and functionality that I realized could be helpful to others as well. The app consists of a clean and intuitive interface where users can create quotes, mark them as favorites, download them as images, copy the quote text to the clipboard, customize the text style and background color, and share them with other users or on social media. What I enjoyed most about developing this app was finding ways to balance Flutter's various widgets and animations to create a seamless user experience. Additionally, the project helped me learn something new about Flutter every day as I researched ways to improve the app's functionality and design.
 
 
 
