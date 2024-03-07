@@ -13,13 +13,12 @@ Hello and welcome! 👋🏾 Thank you for taking the time to explore my GitHub r
   <img width="1000" alt="Billiffy" src="https://github.com/IsaiasCuvula/conversas/assets/68303716/92f69f8c-a7d8-47de-a221-237179d3f232" />
 </p>
 
-Introducing Billify my first Flutter App on the App Store & Google Play Store! - the ultimate bill reminder app. I created it with the goal of making it a part of daily routine. My aim was to make the app visually stunning yet practical, using unique icons that are easy to understand.
+Billiffy - is a dynamic and user-friendly expense tracker app designed to revolutionize the way you manage your finances. Offering unparalleled control, the app simplifies budgeting, expense tracking, and financial awareness with a host of powerful features.
 
-I integrated Firebase for seamless synchronization across multiple devices. Reminders are crucial for any good bill tracking app, which is why I added local and push notifications. Shortcuts make it quick and easy to add new bills.
+Billiffy offers multiple currencies, categories, and advacend filtering options, budgets management & bills management.
 
-Billify offers multiple currencies, categories, and filtering options, including upcoming, paid, and overdue bills. You can add, update, or delete bills and view them in a calendar with category colors. Reports are available in different chart types and currencies, with options for annual, monthly, weekly, and daily filtering. Choose your preferred chart type and currency in the settings.
-
-With Billify, you'll never miss a bill again. 
+## Billiffy Expense Tracker: Your Ultimate Financial Companion. 
+ 
 <p align="left">
   <img width="200" alt="iPhone14ProMockup1" src="https://github.com/IsaiasCuvula/conversas/assets/68303716/a260fd32-bbc5-443c-80a8-3e49b8fd5f5d" />
   <img width="200" alt="iPhone14ProMockup2" src="https://github.com/IsaiasCuvula/conversas/assets/68303716/0023543d-fa36-415e-b4c5-9703407e10ff" />
