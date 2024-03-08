@@ -10,7 +10,7 @@ Hello and welcome! 👋🏾 Thank you for taking the time to explore my GitHub r
 # Billiffy - Expense tracker app (4,8 ⭐️ - 1k downloads)
 
 <p align="left">
-  <img width="1000" alt="Billiffy" src="https://github.com/IsaiasCuvula/conversas/assets/68303716/92f69f8c-a7d8-47de-a221-237179d3f232" />
+  <img width="1000" alt="Billiffy" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/06b29278-247e-4701-a85b-46e45b7ff265" />
 </p>
 
 Billiffy - is a dynamic and user-friendly expense tracker app designed to revolutionize the way you manage your finances. Offering unparalleled control, the app simplifies budgeting, expense tracking, and financial awareness with a host of powerful features.
@@ -20,10 +20,10 @@ Billiffy offers multiple currencies, categories, and advacend filtering options,
 ## Billiffy Expense Tracker: Your Ultimate Financial Companion. 
  
 <p align="left">
-  <img width="200" alt="iPhone14ProMockup1" src="https://github.com/IsaiasCuvula/conversas/assets/68303716/a260fd32-bbc5-443c-80a8-3e49b8fd5f5d" />
-  <img width="200" alt="iPhone14ProMockup2" src="https://github.com/IsaiasCuvula/conversas/assets/68303716/0023543d-fa36-415e-b4c5-9703407e10ff" />
-  <img width="200" alt="iPhone14ProMockup3" src="https://github.com/IsaiasCuvula/conversas/assets/68303716/f0f0a2fe-df44-4e39-b357-4002d2e578a1" />
-   <img width="200" alt="iPhone14ProMockup3" src="https://github.com/IsaiasCuvula/conversas/assets/68303716/3a9f7602-bad3-403c-a043-1df14d4ccefc" />
+  <img width="200" alt="BilliffyMockup1" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/17b446d7-f807-483f-bf62-261b3f4d37f2" />
+  <img width="200" alt="BilliffyMockup2" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/fceb1b86-ec40-4f62-9f94-7b969ac9ab65" />
+  <img width="200" alt="BilliffyMockup3" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/7794554c-9e0a-4c2c-b08f-b577326196c4" />
+   <img width="200" alt="BilliffyMockup4" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/587d207b-ab36-4300-82a7-eb9c97866d8b" />
 </p>
 
 
@@ -100,7 +100,7 @@ Get it now on the [**Google Play Store**](https://play.google.com/store/apps/det
 # Conversas App
 
 <p align="left">
-  <img width="1000" alt="iPhone13Mockup1" src="https://github.com/IsaiasCuvula/billify/assets/68303716/27ee1ac0-dc0d-483a-9776-747184ec5a35" />
+  <img width="1000" alt="ChatApp" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/9c51d6d3-8bdd-43a5-8986-4fee49ccd05f" />
 </p>
 
 Conversas is a Chat App that enables features like Real-time messaging, Contact Stories, End-to-end encryption, last seen, blue tick, etc.
